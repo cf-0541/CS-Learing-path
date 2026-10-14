@@ -1,4 +1,0 @@
-interface:
-  display_name: "Make Knowledge Cards"
-  short_description: "Turn Markdown or text articles into grounded knowledge cards"
-  default_prompt: "Use $make-knowledge-cards to turn this article into concise, source-grounded knowledge cards."
