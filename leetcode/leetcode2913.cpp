@@ -36,3 +36,4 @@ public:
 思路：固定左端点并向右扩展子数组，使用哈希集合维护当前子数组中的不同元素，将集合大小的平方累加到答案中。
 时间复杂度：O(n²)，使用两层循环枚举所有子数组，unordered_set 的插入操作平均为 O(1)。
 空间复杂度：O(n)，哈希集合最多保存 n 个不同元素。
+// 题目链接：https://leetcode.cn/problems/subarrays-distinct-element-sum-of-squares-i/

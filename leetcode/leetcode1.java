@@ -26,3 +26,4 @@ class Solution {
 思路：使用哈希表记录已经遍历过的数字及其下标。对于当前数字 nums[i]，查询 target - nums[i] 是否已经出现。
 时间复杂度：平均为 O(n)，只需要遍历一次数组，哈希表查询和插入平均为 O(1)。
 空间复杂度：O(n)，最坏情况下需要将数组中的元素存入哈希表。
+// 题目链接：https://leetcode.cn/problems/two-sum/

@@ -29,3 +29,4 @@ public:
 思路：使用动态规划，状态转移方程为 dp[i] = max(dp[i - 1], dp[i - 2] + nums[i])，并使用两个变量进行空间优化。
 时间复杂度：O(n)，只需要遍历一次房屋数组。
 空间复杂度：O(1)，只使用 prev1、prev2 和 cur 等常数个额外变量。
+// 题目链接：https://leetcode.cn/problems/house-robber/

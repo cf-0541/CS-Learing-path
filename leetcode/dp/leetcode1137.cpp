@@ -33,3 +33,4 @@ public:
 //思路：使用动态规划，根据递推公式 T(n) = T(n - 1) + T(n - 2) + T(n - 3) 计算结果，并使用三个变量进行空间优化。
 //时间复杂度：O(n)，从 3 遍历到 n，每次计算一个泰波那契数。
 //空间复杂度：O(1)，只使用 prev1、prev2、prev3 和 cur 等常数个额外变
+// 题目链接：https://leetcode.cn/problems/n-th-tribonacci-number/

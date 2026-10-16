@@ -17,3 +17,4 @@ public:
 };
 我的思路是贪心地从高位开始尽量放 9，再放一个余数，剩下的位置补 0。这样得到满足数位和条件的最大数字。
 复杂度：时间复杂度 O(n)，因为需要构造长度为 n 的字符串；空间复杂度 O(n)，用于存放结果。
+// 题目链接：https://leetcode.cn/problems/maximize-sum-of-squares-of-digits/
