@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/lmy/Documents/GitHub/CS-Learing-path",
-      "program": "c:/Users/lmy/Documents/GitHub/CS-Learing-path/build/Debug/outDebug",
+      "cwd": "c:/Users/lmy/Documents/GitHub/CS-Learing-path/leetcode/dp",
+      "program": "c:/Users/lmy/Documents/GitHub/CS-Learing-path/leetcode/dp/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
